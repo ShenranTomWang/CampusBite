@@ -1,0 +1,892 @@
+{
+    "windows": [
+        {
+            "id": 4,
+            "name": "Seoul Kitchen",
+            "dish": "Korean bibimbap",
+            "cuisine": "Asian",
+            "price": 9.5,
+            "emoji": "🍚",
+            "photo": "photo-1498654896293-37aacf113fd9",
+            "base_rating": 4.6,
+            "base_count": 60,
+            "base_votes": 271,
+            "hall": "North Commons",
+            "created_at": "2026-09-09T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 271,
+            "comments": [
+                {
+                    "id": 12,
+                    "window_id": 4,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 11,
+                    "window_id": 4,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 10,
+                    "window_id": 4,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.6,
+            "ratingCount": 60,
+            "reason": "Matches your taste",
+            "score": 9.955
+        },
+        {
+            "id": 2,
+            "name": "Pasta Social",
+            "dish": "Creamy mushroom pasta",
+            "cuisine": "Italian",
+            "price": 9.0,
+            "emoji": "🍝",
+            "photo": "photo-1473093295043-cdd812d0e601",
+            "base_rating": 4.4,
+            "base_count": 46,
+            "base_votes": 297,
+            "hall": "Student Union",
+            "created_at": "2026-09-05T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 297,
+            "comments": [
+                {
+                    "id": 6,
+                    "window_id": 2,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 5,
+                    "window_id": 2,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 4,
+                    "window_id": 2,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.4,
+            "ratingCount": 46,
+            "reason": "Matches your taste",
+            "score": 9.885
+        },
+        {
+            "id": 1,
+            "name": "Wok & Roll",
+            "dish": "Ginger scallion chicken",
+            "cuisine": "Asian",
+            "price": 8.5,
+            "emoji": "🍜",
+            "photo": "photo-1512058564366-18510be2db19",
+            "base_rating": 4.3,
+            "base_count": 39,
+            "base_votes": 310,
+            "hall": "North Commons",
+            "created_at": "2026-09-03T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 310,
+            "comments": [
+                {
+                    "id": 3,
+                    "window_id": 1,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 2,
+                    "window_id": 1,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 1,
+                    "window_id": 1,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.3,
+            "ratingCount": 39,
+            "reason": "Matches your taste",
+            "score": 9.85
+        },
+        {
+            "id": 13,
+            "name": "Fire & Rice",
+            "dish": "Spicy chicken rice bowl",
+            "cuisine": "Asian",
+            "price": 8.0,
+            "emoji": "🌶️",
+            "photo": "photo-1512058564366-18510be2db19",
+            "base_rating": 4.8,
+            "base_count": 123,
+            "base_votes": 154,
+            "hall": "North Commons",
+            "created_at": "2026-09-27T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 154,
+            "comments": [
+                {
+                    "id": 39,
+                    "window_id": 13,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 38,
+                    "window_id": 13,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 37,
+                    "window_id": 13,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.8,
+            "ratingCount": 123,
+            "reason": "Matches your taste",
+            "score": 9.57
+        },
+        {
+            "id": 11,
+            "name": "Pho Real",
+            "dish": "Beef noodle soup",
+            "cuisine": "Asian",
+            "price": 9.0,
+            "emoji": "🍲",
+            "photo": "photo-1569718212165-3a8278d5f624",
+            "base_rating": 4.6,
+            "base_count": 109,
+            "base_votes": 180,
+            "hall": "Student Union",
+            "created_at": "2026-09-23T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 180,
+            "comments": [
+                {
+                    "id": 33,
+                    "window_id": 11,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 32,
+                    "window_id": 11,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 31,
+                    "window_id": 11,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.6,
+            "ratingCount": 109,
+            "reason": "Matches your taste",
+            "score": 9.5
+        },
+        {
+            "id": 9,
+            "name": "Slice of Campus",
+            "dish": "Margherita pizza",
+            "cuisine": "Italian",
+            "price": 6.5,
+            "emoji": "🍕",
+            "photo": "photo-1579751626657-72bc17010498",
+            "base_rating": 4.4,
+            "base_count": 95,
+            "base_votes": 206,
+            "hall": "South Dining Hall",
+            "created_at": "2026-09-19T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 206,
+            "comments": [
+                {
+                    "id": 27,
+                    "window_id": 9,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 26,
+                    "window_id": 9,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 25,
+                    "window_id": 9,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.4,
+            "ratingCount": 95,
+            "reason": "Matches your taste",
+            "score": 9.43
+        },
+        {
+            "id": 8,
+            "name": "The Dumpling Club",
+            "dish": "Chili crisp dumplings",
+            "cuisine": "Asian",
+            "price": 7.5,
+            "emoji": "🥟",
+            "photo": "photo-1563245372-f21724e3856d",
+            "base_rating": 4.3,
+            "base_count": 88,
+            "base_votes": 219,
+            "hall": "Student Union",
+            "created_at": "2026-09-17T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 219,
+            "comments": [
+                {
+                    "id": 24,
+                    "window_id": 8,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 23,
+                    "window_id": 8,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 22,
+                    "window_id": 8,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.3,
+            "ratingCount": 88,
+            "reason": "Matches your taste",
+            "score": 9.395
+        },
+        {
+            "id": 20,
+            "name": "Little Napoli",
+            "dish": "Basil pesto gnocchi",
+            "cuisine": "Italian",
+            "price": 9.5,
+            "emoji": "🌿",
+            "photo": "photo-1473093295043-cdd812d0e601",
+            "base_rating": 4.8,
+            "base_count": 172,
+            "base_votes": 63,
+            "hall": "Student Union",
+            "created_at": "2026-10-11T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 63,
+            "comments": [
+                {
+                    "id": 60,
+                    "window_id": 20,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 59,
+                    "window_id": 20,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 58,
+                    "window_id": 20,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.8,
+            "ratingCount": 172,
+            "reason": "Matches your taste",
+            "score": 9.115
+        },
+        {
+            "id": 16,
+            "name": "Fresh Catch",
+            "dish": "Salmon poke bowl",
+            "cuisine": "Asian",
+            "price": 11.0,
+            "emoji": "🐟",
+            "photo": "photo-1498654896293-37aacf113fd9",
+            "base_rating": 4.4,
+            "base_count": 144,
+            "base_votes": 115,
+            "hall": "North Commons",
+            "created_at": "2026-10-03T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 115,
+            "comments": [
+                {
+                    "id": 48,
+                    "window_id": 16,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 47,
+                    "window_id": 16,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 46,
+                    "window_id": 16,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.4,
+            "ratingCount": 144,
+            "reason": "Matches your taste",
+            "score": 8.975000000000001
+        },
+        {
+            "id": 6,
+            "name": "Taco Tuesday",
+            "dish": "Roasted veggie tacos",
+            "cuisine": "Mexican",
+            "price": 7.0,
+            "emoji": "🌮",
+            "photo": "photo-1551504734-5ee1c4a1479b",
+            "base_rating": 4.8,
+            "base_count": 74,
+            "base_votes": 245,
+            "hall": "South Dining Hall",
+            "created_at": "2026-09-13T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 245,
+            "comments": [
+                {
+                    "id": 18,
+                    "window_id": 6,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 17,
+                    "window_id": 6,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 16,
+                    "window_id": 6,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.8,
+            "ratingCount": 74,
+            "reason": "Loved on campus",
+            "score": 7.025
+        },
+        {
+            "id": 5,
+            "name": "Smash Lab",
+            "dish": "Double smash burger",
+            "cuisine": "American",
+            "price": 10.0,
+            "emoji": "🍔",
+            "photo": "photo-1568901346375-23c9450c58cd",
+            "base_rating": 4.7,
+            "base_count": 67,
+            "base_votes": 258,
+            "hall": "Student Union",
+            "created_at": "2026-09-11T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 258,
+            "comments": [
+                {
+                    "id": 15,
+                    "window_id": 5,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 14,
+                    "window_id": 5,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 13,
+                    "window_id": 5,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.7,
+            "ratingCount": 67,
+            "reason": "Loved on campus",
+            "score": 6.99
+        },
+        {
+            "id": 3,
+            "name": "Green Theory",
+            "dish": "Harvest grain bowl",
+            "cuisine": "Vegetarian",
+            "price": 7.5,
+            "emoji": "🥗",
+            "photo": "photo-1512621776951-a57141f2eefd",
+            "base_rating": 4.5,
+            "base_count": 53,
+            "base_votes": 284,
+            "hall": "South Dining Hall",
+            "created_at": "2026-09-07T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 284,
+            "comments": [
+                {
+                    "id": 9,
+                    "window_id": 3,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 8,
+                    "window_id": 3,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 7,
+                    "window_id": 3,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.5,
+            "ratingCount": 53,
+            "reason": "Loved on campus",
+            "score": 6.92
+        },
+        {
+            "id": 12,
+            "name": "Wrap Session",
+            "dish": "Falafel hummus wrap",
+            "cuisine": "Vegetarian",
+            "price": 7.0,
+            "emoji": "🌯",
+            "photo": "photo-1512621776951-a57141f2eefd",
+            "base_rating": 4.7,
+            "base_count": 116,
+            "base_votes": 167,
+            "hall": "South Dining Hall",
+            "created_at": "2026-09-25T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 167,
+            "comments": [
+                {
+                    "id": 36,
+                    "window_id": 12,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 35,
+                    "window_id": 12,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 34,
+                    "window_id": 12,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.7,
+            "ratingCount": 116,
+            "reason": "Loved on campus",
+            "score": 6.535
+        },
+        {
+            "id": 10,
+            "name": "Morning People",
+            "dish": "Avocado sourdough toast",
+            "cuisine": "Vegetarian",
+            "price": 6.0,
+            "emoji": "🥑",
+            "photo": "photo-1525351484163-7529414344d8",
+            "base_rating": 4.5,
+            "base_count": 102,
+            "base_votes": 193,
+            "hall": "North Commons",
+            "created_at": "2026-09-21T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 193,
+            "comments": [
+                {
+                    "id": 30,
+                    "window_id": 10,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 29,
+                    "window_id": 10,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 28,
+                    "window_id": 10,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.5,
+            "ratingCount": 102,
+            "reason": "Loved on campus",
+            "score": 6.465
+        },
+        {
+            "id": 7,
+            "name": "Curry Corner",
+            "dish": "Chickpea coconut curry",
+            "cuisine": "Indian",
+            "price": 8.0,
+            "emoji": "🍛",
+            "photo": "photo-1603894584373-5ac82b2ae398",
+            "base_rating": 4.2,
+            "base_count": 81,
+            "base_votes": 232,
+            "hall": "North Commons",
+            "created_at": "2026-09-15T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 232,
+            "comments": [
+                {
+                    "id": 21,
+                    "window_id": 7,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 20,
+                    "window_id": 7,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 19,
+                    "window_id": 7,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.2,
+            "ratingCount": 81,
+            "reason": "Loved on campus",
+            "score": 6.36
+        },
+        {
+            "id": 19,
+            "name": "Casa Verde",
+            "dish": "Black bean burrito bowl",
+            "cuisine": "Mexican",
+            "price": 7.5,
+            "emoji": "🫘",
+            "photo": "photo-1551504734-5ee1c4a1479b",
+            "base_rating": 4.7,
+            "base_count": 165,
+            "base_votes": 76,
+            "hall": "North Commons",
+            "created_at": "2026-10-09T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 76,
+            "comments": [
+                {
+                    "id": 57,
+                    "window_id": 19,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 56,
+                    "window_id": 19,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 55,
+                    "window_id": 19,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.7,
+            "ratingCount": 165,
+            "reason": "Loved on campus",
+            "score": 6.08
+        },
+        {
+            "id": 18,
+            "name": "Grill Society",
+            "dish": "BBQ chicken sandwich",
+            "cuisine": "American",
+            "price": 8.5,
+            "emoji": "🥪",
+            "photo": "photo-1568901346375-23c9450c58cd",
+            "base_rating": 4.6,
+            "base_count": 158,
+            "base_votes": 89,
+            "hall": "South Dining Hall",
+            "created_at": "2026-10-07T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 89,
+            "comments": [
+                {
+                    "id": 54,
+                    "window_id": 18,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 53,
+                    "window_id": 18,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 52,
+                    "window_id": 18,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.6,
+            "ratingCount": 158,
+            "reason": "Loved on campus",
+            "score": 6.045
+        },
+        {
+            "id": 17,
+            "name": "Garden Table",
+            "dish": "Crispy tofu salad",
+            "cuisine": "Vegetarian",
+            "price": 7.5,
+            "emoji": "🥬",
+            "photo": "photo-1512621776951-a57141f2eefd",
+            "base_rating": 4.5,
+            "base_count": 151,
+            "base_votes": 102,
+            "hall": "Student Union",
+            "created_at": "2026-10-05T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 102,
+            "comments": [
+                {
+                    "id": 51,
+                    "window_id": 17,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 50,
+                    "window_id": 17,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 49,
+                    "window_id": 17,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.5,
+            "ratingCount": 151,
+            "reason": "Loved on campus",
+            "score": 6.01
+        },
+        {
+            "id": 15,
+            "name": "Bombay Bites",
+            "dish": "Paneer tikka bowl",
+            "cuisine": "Indian",
+            "price": 8.5,
+            "emoji": "🍛",
+            "photo": "photo-1603894584373-5ac82b2ae398",
+            "base_rating": 4.3,
+            "base_count": 137,
+            "base_votes": 128,
+            "hall": "South Dining Hall",
+            "created_at": "2026-10-01T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 128,
+            "comments": [
+                {
+                    "id": 45,
+                    "window_id": 15,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 44,
+                    "window_id": 15,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 43,
+                    "window_id": 15,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.3,
+            "ratingCount": 137,
+            "reason": "Loved on campus",
+            "score": 5.9399999999999995
+        },
+        {
+            "id": 14,
+            "name": "Comfort Kitchen",
+            "dish": "Mac and cheese",
+            "cuisine": "American",
+            "price": 6.5,
+            "emoji": "🧀",
+            "photo": "photo-1473093295043-cdd812d0e601",
+            "base_rating": 4.2,
+            "base_count": 130,
+            "base_votes": 141,
+            "hall": "Student Union",
+            "created_at": "2026-09-29T19:35:04.274574+00:00",
+            "myVote": 0,
+            "votes": 141,
+            "comments": [
+                {
+                    "id": 42,
+                    "window_id": 14,
+                    "author": "Sam R.",
+                    "text": "Really good flavor! Would definitely come back with friends.",
+                    "target": "dish"
+                },
+                {
+                    "id": 41,
+                    "window_id": 14,
+                    "author": "Alex K.",
+                    "text": "Tried this today and loved it. The line moves pretty quickly.",
+                    "target": "window"
+                },
+                {
+                    "id": 40,
+                    "window_id": 14,
+                    "author": "Jamie L.",
+                    "text": "My go-to between classes. Great portions for the price!",
+                    "target": "dish"
+                }
+            ],
+            "myRatings": {},
+            "rating": 4.2,
+            "ratingCount": 130,
+            "reason": "Loved on campus",
+            "score": 5.905
+        }
+    ],
+    "profile": {
+        "cuisines": [
+            "Asian",
+            "Italian"
+        ],
+        "budget": 12,
+        "vegetarian": false
+    }
+}
